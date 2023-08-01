@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on [Ausbildungsnachweis Digital](https://ausbildungsnachweis.digital)
 - 🌱 I’m currently learning Elixir and Phoenix
 - 🤔 I’m looking for help with Elixir and Phoenix
-- 💬 Ask me about Softwaredevelopment, CrossFit and my parental leave
-- 📫 How to reach me: via the Email or Mastodon handle in my profile
+- 💬 [Ask me anything](https://github.com/sebastianbachmann/ama) about Softwaredevelopment, CrossFit and my parental leave
+- 📫 How to reach me: via the Email or Mastodon handles in my profile
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-bachmann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/buk) -->
