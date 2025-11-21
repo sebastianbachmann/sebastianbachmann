@@ -1,4 +1,4 @@
-# Hi, i am Sebastian ✌️🏋🏼👨‍💻🫃🏼
+# Hi, i am Sebastian ✌️🏋🏼👨‍💻🧔
 <!-- ![Header](./github-header-image.png) -->
 <!-- - 🔭 I’m currently working on [my portfolio of small bets](https://twitter.com/buk/status/1724372383010558081) -->
 <!-- - 🌱 I’m currently learning Elixir and Phoenix -->
