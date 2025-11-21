@@ -1,10 +1,10 @@
 # Hi, i am Sebastian ✌️🏋🏼👨‍💻🫃🏼
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
 <!-- - 🔭 I’m currently working on [my portfolio of small bets](https://twitter.com/buk/status/1724372383010558081) -->
-- 🌱 I’m currently learning Elixir and Phoenix
-- 🤔 I’m looking for help with Elixir and Phoenix
-- 🤞 I'm also doing stuff with Ruby On Rails and mobile app development
-- 💬 [Ask me anything](https://github.com/sebastianbachmann/ama) about Softwaredevelopment and staying fit while on parental leave
+<!-- - 🌱 I’m currently learning Elixir and Phoenix -->
+<!-- - 🤔 I’m looking for help with Elixir and Phoenix -->
+<!-- - 🤞 I'm also doing stuff with Ruby On Rails and mobile app development -->
+- 💬 [Ask me anything here](https://github.com/sebastianbachmann/ama)
 - 📫 How to reach me: via the Email or Bsky handles in my profile
 
 <!--#🌐 Socials:
